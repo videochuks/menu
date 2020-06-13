@@ -1,0 +1,33 @@
+li a{
+text-decoration:none;
+border: 1px solid red ;
+margin:15px;
+display: block;
+padding:10px;
+font-size:30px;
+font-weight:bold;
+color:white;
+background-color: violet;
+text-align: center;
+
+}
+
+li{
+    list-style-type: none;   
+  
+    width: 200px;
+}
+
+
+ul{
+    border: 1px solid brown;
+    padding: 0px;
+    margin: 0;
+    
+    }
+
+  li a:hover{
+background-color:ghostwhite;
+color:red;
+
+    }
